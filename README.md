@@ -12,4 +12,9 @@ pip3 install -r requirements.txt
 py index.py
 ```
 
-It will generate `zipf.xlsx` file for word frequencies by ranks analysis.
+It will generate `Zipf.xlsx` file for word frequencies by ranks analysis.
+
+Heaps's Law
+-----------
+
+Output will go to `Heaps.xlsx` file.
