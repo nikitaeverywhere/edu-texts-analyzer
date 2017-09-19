@@ -2,13 +2,27 @@
 
 Analyzes texts for compliance with the Zipf's second law and Heaps' law.
 
+Prerequisites
+-------------
+
+Having Python 3 installed, clone the project and install its dependencies:
+
+```bash
+git clone git@github.com:ZitRos/edu-texts-analyzer.git
+cd edu-texts-analyzer
+pip3 install -r requirements.txt
+```
+
+Texts for analysis are taken from `texts` directory.
+Every file in this directory and its subdirectories will be treated as a text file.
+There are already some articles, but you may place your own.
+
 Zipf's Law
 ----------
 
 Having Python 3 installed, install dependencies and run the program: 
 
 ```bash
-pip3 install -r requirements.txt
 py index.py
 ```
 
