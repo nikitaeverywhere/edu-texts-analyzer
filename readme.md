@@ -16,7 +16,7 @@ It will generate `Zipf.xlsx` file with word ranks/frequencies data.
 
 ![Zipf's Law](https://user-images.githubusercontent.com/4989256/30581003-a1c5072e-9cec-11e7-90da-6376ddd9198d.png)
 
-Heaps's Law
+Heaps' Law
 -----------
 
 Output will go to `Heaps.xlsx` file.
