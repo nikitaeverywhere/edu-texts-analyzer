@@ -1,6 +1,6 @@
 # Texts Statistical Analysis
 
-Analyzes texts for compliance with the second Zipf's law, regularity of Bradford, etc.
+Analyzes texts for compliance with the Zipf's second law and Heaps' law.
 
 Zipf's Law
 ----------
